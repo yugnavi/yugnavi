@@ -111,9 +111,8 @@ I'm interested in collaborating on projects involving:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 🌐 Portfolio: [Add your portfolio URL]
-- 📧 Email: [Add your preferred public email]
+- 💼 LinkedIn: (https://www.linkedin.com/in/guyivanocon/)
+- 📧 Email: oconguyivan@gmail.com/gdocon@up.edu.ph
 
 ---
 
