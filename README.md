@@ -10,7 +10,7 @@ Currently, I’m a Software Applications Engineer at Nascent Technologies Corp, 
 
 I’m also pursuing a Master of Engineering in Artificial Intelligence at the University of the Philippines Diliman.
 
-Beyond my professional work, I offer freelance software development, AI integration, and digital transformation services to clients worldwide. I work with clients across various industries, with a particular interest in helping NGOs, nonprofits, and mission-driven organizations modernize their operations through technology.
+Beyond my professional work, I offer freelance software development, AI integration, and digital transformation services. I work with clients across various industries, with a particular interest in helping NGOs, nonprofits, and mission-driven organizations modernize their operations through technology.
 
 ⸻
 
