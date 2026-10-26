@@ -2,7 +2,7 @@
 
 **Software Applications Engineer | AI & Full-Stack Developer | International Client Work | Digital Transformation & Policy Research**
 
-Software developer and graduate student in Artificial Intelligence with experience building production-oriented digital platforms, data pipelines, analytics dashboards, and AI-enabled tools. My work spans health surveillance, battery monitoring, applied machine learning, digital transformation for nonprofit organizations, and evidence-based policy research. I have also worked with international clients in Luxembourg and Malta on quality-control software and legal technology. I am interested in connecting responsible AI engineering with public-interest technology and sustainable development.
+Software developer and graduate student in Artificial Intelligence with experience building production-oriented digital platforms, data pipelines, analytics dashboards, and AI-enabled tools. My work spans health surveillance, battery monitoring, applied machine learning, digital transformation for nonprofit organizations, and evidence-based policy research. I have also worked with international clients on quality-control software and legal technology. I am interested in connecting responsible AI engineering with public-interest technology and sustainable development.
 
 ## Current Roles
 
@@ -130,7 +130,6 @@ Professional Profiles
 Social Media
 
 * Facebook: https://web.facebook.com/guy.ivan.ocon.2025/
-* Instagram: [Add Instagram URL]
 
 Contact Information
 
